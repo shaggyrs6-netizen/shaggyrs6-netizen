@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Lee Shand — Wired Differently</title>
+  <desc id="desc">Omarchy, AI, Obsidian and building useful things. A dark banner with purple and teal accents.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#20152f"/>
+      <stop offset=".6" stop-color="#0f0f1a"/>
+      <stop offset="1" stop-color="#142a29"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="url(#surface)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="17" fill="none" stroke="#343444" stroke-width="2"/>
+  <rect x="48" y="50" width="5" height="256" rx="2" fill="#6b21a8"/>
+  <g font-family="DejaVu Sans, Segoe UI, sans-serif">
+    <text x="80" y="83" fill="#2dd4bf" font-size="18" font-weight="700" letter-spacing="4">LEE SHAND / A PUBLIC WORKSHOP</text>
+    <text x="77" y="164" fill="#f3f0e9" font-size="66" font-weight="700" letter-spacing="-2">Wired Differently</text>
+    <text x="80" y="217" fill="#c2bec9" font-family="Georgia, DejaVu Serif, serif" font-size="25">Building things that earn their place.</text>
+    <g fill="#f3f0e9" font-size="17" font-weight="600" letter-spacing="1">
+      <text x="80" y="288">OMARCHY</text>
+      <text x="238" y="288">AI</text>
+      <text x="314" y="288">OBSIDIAN</text>
+      <text x="477" y="288">BUILDING</text>
+    </g>
+    <g fill="#2dd4bf"><circle cx="216" cy="282" r="3"/><circle cx="292" cy="282" r="3"/><circle cx="455" cy="282" r="3"/></g>
+  </g>
+  <g fill="none" stroke-width="2">
+    <rect x="917" y="82" width="200" height="196" rx="14" stroke="#343444"/>
+    <path d="M917 124H1117" stroke="#343444"/>
+    <path d="M949 167L971 186L949 205M989 207H1027" stroke="#2dd4bf" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M950 241H1083" stroke="#6b21a8" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <g fill="#c2bec9"><circle cx="942" cy="104" r="4"/><circle cx="960" cy="104" r="4"/><circle cx="978" cy="104" r="4"/></g>
+</svg>
