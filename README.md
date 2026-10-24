@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/wired-differently.svg" alt="Lee Shand — Wired Differently. Omarchy, AI, Obsidian and building useful things." width="100%">
+  <img src="assets/wd-workbench-banner-v1.png" alt="Wired Differently — purple and teal WD emblem with solid lettering." width="100%">
 </p>
 
 <p align="center">
